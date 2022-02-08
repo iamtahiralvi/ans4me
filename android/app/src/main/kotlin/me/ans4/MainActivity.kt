@@ -1,4 +1,4 @@
-package com.mrblab.newsfreak
+package me.ans4
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -54,6 +54,7 @@ dependencies:
   md2_tab_indicator:
     git:
       url: https://github.com/westdabestdb/md2_tab_indicator
+  change_app_package_name: ^1.0.0
 
 
 dev_dependencies:

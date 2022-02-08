@@ -47,7 +47,7 @@ class BuyNowWidget extends StatelessWidget {
                   color: Theme.of(context).colorScheme.secondary),
             ).tr(),
             trailing: Icon(Feather.chevron_right),
-            onTap: () => AppService().openLinkWithCustomTab(context, "https://codecanyon.net/item/newsfreak-flutter-news-app-for-wordpress/32743254"),
+            onTap: () => AppService().openLinkWithCustomTab(context, "https://codecanyon.net/item/me-flutter-news-app-for-wordpress/32743254"),
           ),
         ),
       ],

@@ -2,11 +2,11 @@ class WpConfig {
 
 
   // YOUR WEBISTE URL
-  static const String websiteUrl = "YOUR_SITE_URL";
+  static const String websiteUrl = "https://ans4.me/";
 
   // CREDENTIALS
-  static const String websiteAdminName = 'USER_NAME';
-  static const String websiteAdminPassword = 'YOUR_PASSWORD';
+  static const String websiteAdminName = 'tahir';
+  static const String websiteAdminPassword = '&LK?VC1Qj';
   
 
   //FEATURE TAG ID

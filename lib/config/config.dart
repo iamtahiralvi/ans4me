@@ -3,22 +3,22 @@ import 'package:flutter/material.dart';
 class Config {
 
   
-  static const appName = 'YOUR_APP_NAME';
-  static const supportEmail = 'YOUR_EMAIL';
-  static const privacyPolicyUrl = 'YOUR_PRIVACY_POLICY_URL';
+  static const appName = 'Ans4.me';
+  static const supportEmail = 'care@ans4.me';
+  static const privacyPolicyUrl = 'https://ans4.me/privacy-policy/';
   static const iOSAppID = '000000';
 
 
 
   //SOCIAL LINKS
-  static const String facebookPageUrl = 'https://www.facebook.com/mrblab24';
-  static const String youtubeChannelUrl = 'https://www.youtube.com/channel/UCnNr2eppWVVo-NpRIy1ra7A';
-  static const String twitterUrl = 'https://twitter.com/FlutterDev';
+  static const String facebookPageUrl = 'https://www.facebook.com/ans4me';
+  static const String youtubeChannelUrl = '#';
+  static const String twitterUrl = 'https://twitter.com/ans4me';
   
 
 
   //app theme color
-  final Color appThemeColor = Color(0xFFf8bd7f);
+  final Color appThemeColor = Color(0xFFFFCB05);
 
 
   

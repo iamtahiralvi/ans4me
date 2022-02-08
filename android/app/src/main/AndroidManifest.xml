@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mrblab.newsfreak">
+    package="me.ans4">
 
   <uses-permission android:name="android.permission.INTERNET"/>
   <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
@@ -19,7 +19,7 @@
     </queries>
 
    <application
-        android:label="News Freak"
+        android:label="Ans4.Me"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
         <activity
